@@ -1,10 +1,9 @@
 {
     "name": "Play Day Assets",
     "version": "1.0",
-    "guid": "1022b9b2-92e2-42a9-906e-b3c6e5d21426",
+    "guid": "ddb2a9c8-71cf-4496-8fa5-558ad5772ac1",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "asset_directory": "Assets",
-    "thumbnail_guid": "bf47c070-5442-40a6-b1c0-3bc5b9aba047",
     "plugin_dependencies": [
 		"4cc21fd4-730f-475d-9807-fbf9e5595308",
 		"7f333735-7d28-4ede-815b-805aad806b8c",
